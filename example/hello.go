@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/bmizerany/pat"
+	"github.com/AndrewDonelson/hypersonic"
 )
 
 // hello world, the web server
