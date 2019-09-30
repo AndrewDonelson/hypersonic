@@ -1,4 +1,5 @@
-# hypersonic (formerly pat, pat.go) - A pattern muxer for Go's net/http library
+# hypersonic 
+### (formerly pat, pat.go) - A pattern muxer for Go's net/http library
 
 [![GoDoc](https://godoc.org/github.com/AndrewDonelson/hypersonic?status.svg)](https://godoc.org/github.com/AndrewDonelson/hypersonic) 
 
