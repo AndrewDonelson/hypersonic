@@ -1,5 +1,5 @@
 // Package pat implements a simple URL pattern muxer
-package pat
+package hypersonic
 
 import (
 	"context"
@@ -62,7 +62,7 @@ import (
 //	import (
 //		"io"
 //		"net/http"
-//		"github.com/bmizerany/pat"
+//		"github.com/AndrewDonelson/hypersonic"
 //		"log"
 //	)
 //
