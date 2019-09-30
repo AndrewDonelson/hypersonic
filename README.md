@@ -1,10 +1,10 @@
-# pat (formerly pat.go) - A Sinatra style pattern muxer for Go's net/http library
+# hypersonic (formerly pat, pat.go) - A pattern muxer for Go's net/http library
 
-[![GoDoc](https://godoc.org/github.com/bmizerany/pat?status.svg)](https://godoc.org/github.com/bmizerany/pat) 
+[![GoDoc](https://godoc.org/github.com/AndrewDonelson/hypersonic?status.svg)](https://godoc.org/github.com/AndrewDonelson/hypersonic) 
 
 ## INSTALL
 
-	$ go get github.com/bmizerany/pat
+	$ go get github.com/AndrewDonelson/hypersonic
 
 ## USE
 
@@ -14,7 +14,7 @@ package main
 import (
 	"io"
 	"net/http"
-	"github.com/bmizerany/pat"
+	"github.com/AndrewDonelson/hypersonic"
 	"log"
 )
 
@@ -40,7 +40,7 @@ func main() {
 It's that simple.
 
 For more information, see:
-http://godoc.org/github.com/bmizerany/pat
+http://godoc.org/github.com/AndrewDonelson/hypersonic
 
 ## CONTRIBUTORS
 
